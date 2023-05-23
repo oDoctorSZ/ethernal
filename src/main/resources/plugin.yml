@@ -1,0 +1,7 @@
+name: Ethernal
+version: '${project.version}'
+main: ian.tomaz.ethernal.Ethernal
+api-version: 1.18
+commands:
+  core:
+    description: Ethernal Core Command
